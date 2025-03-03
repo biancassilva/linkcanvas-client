@@ -1,3 +1,5 @@
+API: https://github.com/biancassilva/linkcanvas-api
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
